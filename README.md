@@ -3,5 +3,5 @@
 🌐 MERN Stack
 </h1>
 <p align="center">
-MongoDB, Expressjs, React/Redux, Nodejs
+SocialSparrow is a social media website built in MERN Stack framework for the base, Redux for state management, Material UI as front-end react component for UI.
 </p>
